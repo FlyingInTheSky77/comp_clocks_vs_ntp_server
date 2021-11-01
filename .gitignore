@@ -1,0 +1,7 @@
+.DS_Store
+ntp.pro.user
+
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
