@@ -1,3 +1,6 @@
+01.11.2021: I add to simple example GUI(QT/Quick) and now users can see difference in time, ip server and change time interval. 
+
+
 # A simple example consuming QNtp
 
 QNtp is hosted on https://code.google.com/p/qntp 
